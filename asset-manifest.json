@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Kk9536/YupyNet/static/css/main.3b1c17a5.css",
-    "main.js": "/Kk9536/YupyNet/static/js/main.de6b4610.js",
-    "static/media/Valorant_natro.mp4": "/Kk9536/YupyNet/static/media/Valorant_natro.f59e5f9ee82c9c1b90b5.mp4",
-    "static/media/Valorant_caomei.mp4": "/Kk9536/YupyNet/static/media/Valorant_caomei.7289af3509b7155057c4.mp4",
-    "static/media/Valorant_05-25-2025_0-29-12-178.mp4": "/Kk9536/YupyNet/static/media/Valorant_05-25-2025_0-29-12-178.7a58c6b6a4465e3c0da0.mp4",
-    "static/media/Valorant_kk.mp4": "/Kk9536/YupyNet/static/media/Valorant_kk.41474d34dcc6e27f4a3d.mp4",
-    "static/media/natro.webp": "/Kk9536/YupyNet/static/media/natro.a5b2b55db3e84435925b.webp",
-    "static/media/u3u.webp": "/Kk9536/YupyNet/static/media/u3u.059e73171bdbb3787c90.webp",
-    "static/media/yoviker.webp": "/Kk9536/YupyNet/static/media/yoviker.465b8c398335f4cd7cfa.webp",
-    "static/media/potato.webp": "/Kk9536/YupyNet/static/media/potato.f5b7a0c1207646b41d4d.webp",
-    "static/media/kk.webp": "/Kk9536/YupyNet/static/media/kk.ee362fb99c46133ae0bc.webp",
-    "static/media/_Gabarito-Bold.woff2": "/Kk9536/YupyNet/static/media/672a4022c04412b253b0ae96_Gabarito-Bold.c632d410d3266c760cae.woff2",
-    "static/media/_Gabarito-Regular.woff2": "/Kk9536/YupyNet/static/media/672a4022c04412b253b0aeb9_Gabarito-Regular.a6ae78cd4e0b346be373.woff2",
-    "static/media/Rioticon.webp": "/Kk9536/YupyNet/static/media/Rioticon.f024932d83168ebcabb8.webp",
-    "index.html": "/Kk9536/YupyNet/index.html",
-    "main.3b1c17a5.css.map": "/Kk9536/YupyNet/static/css/main.3b1c17a5.css.map",
-    "main.de6b4610.js.map": "/Kk9536/YupyNet/static/js/main.de6b4610.js.map"
+    "main.css": "/static/css/main.7a04726b.css",
+    "main.js": "/static/js/main.715a6a6d.js",
+    "static/media/Valorant_natro.mp4": "/static/media/Valorant_natro.f59e5f9ee82c9c1b90b5.mp4",
+    "static/media/Valorant_caomei.mp4": "/static/media/Valorant_caomei.7289af3509b7155057c4.mp4",
+    "static/media/Valorant_05-25-2025_0-29-12-178.mp4": "/static/media/Valorant_05-25-2025_0-29-12-178.7a58c6b6a4465e3c0da0.mp4",
+    "static/media/Valorant_kk.mp4": "/static/media/Valorant_kk.41474d34dcc6e27f4a3d.mp4",
+    "static/media/natro.webp": "/static/media/natro.a5b2b55db3e84435925b.webp",
+    "static/media/u3u.webp": "/static/media/u3u.059e73171bdbb3787c90.webp",
+    "static/media/yoviker.webp": "/static/media/yoviker.465b8c398335f4cd7cfa.webp",
+    "static/media/potato.webp": "/static/media/potato.f5b7a0c1207646b41d4d.webp",
+    "static/media/kk.webp": "/static/media/kk.ee362fb99c46133ae0bc.webp",
+    "static/media/_Gabarito-Bold.woff2": "/static/media/672a4022c04412b253b0ae96_Gabarito-Bold.c632d410d3266c760cae.woff2",
+    "static/media/_Gabarito-Regular.woff2": "/static/media/672a4022c04412b253b0aeb9_Gabarito-Regular.a6ae78cd4e0b346be373.woff2",
+    "static/media/Rioticon.webp": "/static/media/Rioticon.f024932d83168ebcabb8.webp",
+    "index.html": "/index.html",
+    "main.7a04726b.css.map": "/static/css/main.7a04726b.css.map",
+    "main.715a6a6d.js.map": "/static/js/main.715a6a6d.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b1c17a5.css",
-    "static/js/main.de6b4610.js"
+    "static/css/main.7a04726b.css",
+    "static/js/main.715a6a6d.js"
   ]
 }
