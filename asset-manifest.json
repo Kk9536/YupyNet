@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7a04726b.css",
-    "main.js": "/static/js/main.715a6a6d.js",
+    "main.css": "/static/css/main.0765f8f3.css",
+    "main.js": "/static/js/main.74207878.js",
     "static/media/Valorant_natro.mp4": "/static/media/Valorant_natro.f59e5f9ee82c9c1b90b5.mp4",
     "static/media/Valorant_caomei.mp4": "/static/media/Valorant_caomei.7289af3509b7155057c4.mp4",
     "static/media/Valorant_05-25-2025_0-29-12-178.mp4": "/static/media/Valorant_05-25-2025_0-29-12-178.7a58c6b6a4465e3c0da0.mp4",
@@ -15,11 +15,11 @@
     "static/media/_Gabarito-Regular.woff2": "/static/media/672a4022c04412b253b0aeb9_Gabarito-Regular.a6ae78cd4e0b346be373.woff2",
     "static/media/Rioticon.webp": "/static/media/Rioticon.f024932d83168ebcabb8.webp",
     "index.html": "/index.html",
-    "main.7a04726b.css.map": "/static/css/main.7a04726b.css.map",
-    "main.715a6a6d.js.map": "/static/js/main.715a6a6d.js.map"
+    "main.0765f8f3.css.map": "/static/css/main.0765f8f3.css.map",
+    "main.74207878.js.map": "/static/js/main.74207878.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a04726b.css",
-    "static/js/main.715a6a6d.js"
+    "static/css/main.0765f8f3.css",
+    "static/js/main.74207878.js"
   ]
 }
